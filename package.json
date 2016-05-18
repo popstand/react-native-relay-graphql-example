@@ -6,7 +6,11 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-react-native": "^1.8.0",
+    "babel-relay-plugin": "^0.8.1",
     "react": "^0.14.8",
-    "react-native": "^0.25.1"
+    "react-native": "^0.25.1",
+    "react-relay": "^0.8.1"
   }
 }
